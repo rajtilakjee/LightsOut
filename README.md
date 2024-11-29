@@ -1,2 +1,2 @@
-# lightsout
-Because even your PC needs rest.
+# LightsOut
+*Because even your PC needs rest.*
